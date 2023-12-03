@@ -1,0 +1,15 @@
+---
+title: "Hobbies"
+editor: visual
+image: "C:/Users/juill/OneDrive/Desktop/Fall 2023/Data wrangling and visulization/Assignments/Final Project/reading.png"
+image-shape: rectangle
+image-width: 15em
+---
+1. My top favorite hobby is reading. These days I don't have much time to read recreational, I read mostly for my classes, but when I do read recreationally it's very relaxing. I love reading because it transports me to a different world and makes me use my imagination.
+
+![Reading](reading.png)
+
+2. My second favorite hobby is making pinterest boards. I think I am pretty good at this but I suppose that is subjective. I love doing this because I come across a lot of interesting images and it also helps me to plan things out and put my ideas into a visual format. 
+
+3. My third favorite hobby is embroidery. I am not very good at this hobby but I enjoy it very much because it is therapeutic. 
+

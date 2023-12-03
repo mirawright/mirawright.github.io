@@ -1,0 +1,19 @@
+project:
+  type: website
+  output-dir: docs
+
+website:
+  title: "Mirakle Wright"
+  navbar:
+    left:
+      - href: index.qmd
+        text: Home
+      - Hobbies.qmd
+format:
+  html:
+    theme: vapor
+    css: styles.css
+    toc: true
+
+
+

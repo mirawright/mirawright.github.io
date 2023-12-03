@@ -1,0 +1,32 @@
+---
+title: "Mirakle Wright"
+image: headshot.png
+about:  
+  template: jolla
+  image-shape: round
+  image-width: 15em
+  links: 
+    - text: Email
+      icon: envelope
+      href: mailto:Mirakle.wright@ucdenver.edu
+    - text: Linkedin
+      icon: linkedin
+      href: https://www.linkedin.com/in/mirakle-wright-324347215
+  id: ppc
+---
+
+:::{#ppc}
+## Education
+Degree in Progress: BA in Sociology
+
+Minors: Data Science, Multidisciplinary Honors and Leadership
+
+Certificates: Digital Studies
+
+## Skills
+Natural Language Processing
+
+Research
+
+Data analysis
+:::
